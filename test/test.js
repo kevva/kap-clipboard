@@ -12,10 +12,6 @@ proxyquire('..', {
 	}
 });
 
-test.afterEach(() => {
-	clipboardStub.writeBuffer.reset();
-});
-
 test('gif', async t => {
 	const fixture = fs.readFileSync('test/fixtures/unicorn.gif');
 	const plugin = kapPluginTest('test/fixtures/unicorn.gif');
