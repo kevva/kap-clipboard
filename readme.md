@@ -1,4 +1,4 @@
-# kap-clipboard
+# kap-clipboard [![Build Status](https://travis-ci.org/kevva/kap-clipboard.svg?branch=master)](https://travis-ci.org/kevva/kap-clipboard)
 
 > [Kap](https://github.com/wulkano/kap) plugin - Copy GIFs to clipboard
 
