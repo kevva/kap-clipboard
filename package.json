@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "ava": "*",
-    "electron": "^1.6.10",
+    "electron": "^9.1.0",
     "kap-plugin-test": "^0.4.0",
     "proxyquire": "^1.8.0",
     "sinon": "^2.3.2",
